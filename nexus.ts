@@ -5,6 +5,7 @@ import OpenAI from "openai";
 
 const OPENROUTER_API_KEY = "YOUR_OPENROUTER_API_KEY";
 
+//CHANGE THESE MODELS TO YOUR LIKING, :free may catch you errors with OpenRouterAPI
 const THINKER_1 = "google/gemini-2.0-flash-001";
 const THINKER_2 = "qwen/qwen3-235b-a22b:free";
 const THINKER_3 = "anthropic/claude-3.5-haiku";
