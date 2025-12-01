@@ -1,6 +1,6 @@
-# **Nexus Fast 3B**
+# **Nexus Fast Mini**
 
-Nexus Fast 3B is a multi-model reasoning framework built around a simple idea:
+Nexus Fast Mini is a multi-model reasoning framework built around a simple idea:
 combine several specialized models, collect their perspectives, synthesize them, and produce a single high-quality answer.
 
 This project provides the full TypeScript implementation of the Nexus pipeline, including:
